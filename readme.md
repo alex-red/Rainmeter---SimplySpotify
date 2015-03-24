@@ -1,3 +1,5 @@
+Font and design inspired by [Muziko](http://nomnuggetnom.deviantart.com/art/Muziko-for-Rainmeter-314928622)
+
 ====
 Usage:
 ====
